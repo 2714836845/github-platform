@@ -1,7 +1,7 @@
-# xiutangUi
+# xiutangui
 
-[![NPM version](https://img.shields.io/npm/v/xiutangUi.svg?style=flat)](https://npmjs.org/package/xiutangUi)
-[![NPM downloads](http://img.shields.io/npm/dm/xiutangUi.svg?style=flat)](https://npmjs.org/package/xiutangUi)
+[![NPM version](https://img.shields.io/npm/v/xiutangui.svg?style=flat)](https://npmjs.org/package/xiutangui)
+[![NPM downloads](http://img.shields.io/npm/dm/xiutangui.svg?style=flat)](https://npmjs.org/package/xiutangui)
 
 A react library developed with dumi
 
